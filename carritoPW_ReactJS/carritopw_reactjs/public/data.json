@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "On the Road",
+        "author": "Jack Kerouac",
+        "price": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/en/8/8a/OnTheRoad.jpg",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "name": "The Subterraneans",
+        "author": "Jack Kerouac",
+        "price": 20,
+        "img": "https://m.media-amazon.com/images/I/81ySlck9DqL._SL1500_.jpg",
+        "quanty": 1
+       
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter y el cáliz de fuego",
+        "author": "J. K. Rowling",
+        "price": 25,
+        "img": "https://m.media-amazon.com/images/I/91a2FifMS8L._SL1500_.jpg",
+        "quanty": 1
+       
+    }
+]
